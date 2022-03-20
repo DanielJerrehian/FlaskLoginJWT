@@ -1,0 +1,12 @@
+# Virtual Environment
+/venv
+
+# Environment Variables
+.env
+
+# Cache
+**/__pycache__
+
+# Unit Test & Coverage Reports
+.coverage
+.cache
